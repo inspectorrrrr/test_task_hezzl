@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "eyJhbGciOiJSU0ExXzUiLCJjdHkiOiJKV1QiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiemlwIjoiREVGIn0.ixQG9guCkkpdYFUfV44XeVhGmzFGlHAM6Y9ERxUKZqwGx6cltGUm1JjPdUYc7aYOB8RFAknQHixtzhWgBe1jf0Tbx4GG6e4hAwCGV8wcLj4n-ARtK0fVg_kyZoK4j0e7rkXmztyfTddEyoTVa9B8qqRvL0GmeSa-AGgR3dHCMCUeOe_k5wBvgm0mbOo57IVdp_qjrTEuIsW9Ov9dwSXWThFTvIpRh_t6gtjLqxPEM8rRasEtrfnkeF6ioM9rpBvXy6bK0S6oYGbur247jAwZv6OSDIWFRl9a-JFOExnMlVqYHgPhEVWdGV2eV_mny4ssC-73LCkOl1tTrNepBuW3jQ.9SneDXDDPUerpicOxMjyQg.0MFkMFUslOzSKcs0DKPcV3b37gtOBV1owSuYG2jQCu2_ScfIt_9ieQuPFFVDSNAQ550fFhsFE8ze5yv4TT9VBjaipqQXDw3gpCEZAY-jTVyjBLiPjjCzQ5OFbvrXQtYzYrUNSXwKDI_s3AYblgbiqO9y1MeGiZm6nC1aFKNtsN22h4OC4_7UQIK-iRkPKiYtN88gb9W6_u9fSkXW0vyfkgmJvphXKPyApTXf3eYHEqhrwWAtZWw2ISiKAhDZer5hur0DW4l4f2g4jLk6QiW5PKNacqnSJIXi4pR7Y_a6lf3xzTtyecZxbmqpgUdNacAIQ_nXNLZAXn_N5ujuiQT3uaezzVjrUBxRkBScuoOYv223kB2fArU1-Umiba0kPNXW_jKwV0luTmkpbW-ka496mQ.ejYou-FrwkPxuvGdBrpbWA",
+    "User-Agent": "PostmanRuntime/7.37.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "3008cafe-68b3-4c1c-8d2b-fe141713a367",
+    "Host": "api-prod.hezzl.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "2"
+}
